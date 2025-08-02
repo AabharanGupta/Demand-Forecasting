@@ -41,6 +41,6 @@ Train-Test Split: 80/20
 
 ### Evaluation Metrics:
 
-RMSE: 28.14
+RMSE: 15.98
 
-R² Score: 0.85
+R² Score: 0.86
